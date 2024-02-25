@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif) width="300"
+![logo](https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif)
 <h1 align="center">Hi 👋, I'm Shwetanjali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
