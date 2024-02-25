@@ -1,3 +1,4 @@
+![logo](https://github.com/Shwetanjali05/Shwetanjali05/blob/main/SUV4%20(1).gif)
 <h1 align="center">Hi 👋, I'm Shwetanjali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
